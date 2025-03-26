@@ -2,6 +2,8 @@
 
 A C++ console application designed to help users create meal plans. Users input their personal details, and the program calculates their recommended calorie intake. They can then create, view, and manage menus with food items from a predefined catalog.
 
+This project was developed in **March 2023**.
+
 ## Features
 - **User Profile Management**: Enter name, age, weight, height, and gender.
 - **Calorie Limit Calculation**: Suggests a recommended calorie intake based on user data.
