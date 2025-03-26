@@ -1,0 +1,7 @@
+Habas 30 45
+Alubias 50 160
+Lentejas 50 180
+Frijoles 50 172
+Soja 50 194
+Guisantes 80 216
+Garbanzos 80 310

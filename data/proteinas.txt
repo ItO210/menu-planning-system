@@ -1,0 +1,7 @@
+Atún 100 116
+Tofu 100 144
+Cerdo 150 214
+Salmón 150 309
+Pollo 200 330
+Pavo 200 378
+Res 200 500

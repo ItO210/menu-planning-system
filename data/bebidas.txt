@@ -1,0 +1,7 @@
+Agua_mineral 250 0
+Jugo_naranja 250 110
+Te_verde 237 0
+Coca_Cola 330 140
+Sprite 330 140
+Leche 240 83
+Limonada 240 99

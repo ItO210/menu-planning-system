@@ -1,0 +1,7 @@
+Fresas 50 16
+Espinacas 100 23
+Zanahorias 50 24
+Tomates 150 27
+Pepino 150 35
+Manzana 100 52
+Piña 150 72

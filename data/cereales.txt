@@ -1,0 +1,7 @@
+Cebada 30 102
+Avena 30 110
+Arrozinflado 40 156
+Quinoa 50 180
+Mijo 50 182
+Trigo 70 252
+Centeno 80 280
